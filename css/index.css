@@ -68,21 +68,21 @@ input{
     padding: 34px 62px;
 }
 
-li{
+ul{
     list-style-type: none;
-    margin: 15px;
-}
-
-.first{
-    margin-top: 10px;
+    margin-bottom: 25px;
 }
 
 .list-when{
     margin-bottom: 5px;
 }
 
-.list-list{
-    margin-bottom: 25px;
+li{
+    margin: 15px;
+}
+
+.first{
+    margin-top: 10px;
 }
 
 .mark{
