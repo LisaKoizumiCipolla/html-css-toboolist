@@ -70,6 +70,11 @@ input{
 
 li{
     list-style-type: none;
+    margin: 15px;
+}
+
+.first{
+    margin-top: 10px;
 }
 
 .list-when{
@@ -77,7 +82,28 @@ li{
 }
 
 .list-list{
-    margin-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+.mark{
+    display: inline-block;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+
+}
+
+.check {
+    color: #68C2AC;
+}
+
+.ballot {
+    color: #EC7974;
 }
 
 .Pill{
@@ -91,16 +117,6 @@ li{
     border-radius: 10px;
     width: 64px;
     height: 25px;
-}
-
-.mark
-
-.check {
-    color: #68C2AC;
-}
-
-.ballot {
-    color: #EC7974;
 }
 
 .Editorial{
