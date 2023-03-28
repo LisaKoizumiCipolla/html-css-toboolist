@@ -13,6 +13,7 @@ header{
     height: 68px;
     padding: 10px;
     background-color: white;
+    margin-bottom: 40px;
 }
 
 img{
@@ -26,3 +27,38 @@ h1{
     font-size: 2.5rem;
 }
 
+main{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    background-color: white;
+    border-radius: 3px;
+}
+
+.buttonroom{
+    height: 55px;
+}
+
+button{
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: none;
+    background-color: #47ADF1;
+    color: white;
+    margin: 15px 2px;
+    margin-left: 60px;
+}
+
+input{
+    width: 98px;
+    height: 33px;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: lightgray;
+    border-width: thin;
+    border-style: solid;
+    text-align: center;
+}
