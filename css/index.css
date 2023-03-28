@@ -80,7 +80,7 @@ li{
     margin-bottom: 10px;
 }
 
-span{
+.Pill{
     display: inline-block;
     vertical-align: middle;
     text-align: center;
@@ -91,6 +91,16 @@ span{
     border-radius: 10px;
     width: 64px;
     height: 25px;
+}
+
+.mark
+
+.check {
+    color: #68C2AC;
+}
+
+.ballot {
+    color: #EC7974;
 }
 
 .Editorial{
