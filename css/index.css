@@ -40,6 +40,7 @@ section{
 
 .buttonroom{
     height: 55px;
+    margin-bottom: 2px;
 }
 
 button{
@@ -61,4 +62,20 @@ input{
     border-width: thin;
     border-style: solid;
     text-align: center;
+}
+
+.list{
+    padding: 34px 62px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.list-when{
+    margin-bottom: 5px;
+}
+
+.list-list{
+    margin-bottom: 10px;
 }
