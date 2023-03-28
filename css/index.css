@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F6F8F9;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    height: 68px;
+    padding: 10px;
+    background-color: white;
+}
+
+img{
+    vertical-align: middle;
+    margin-bottom: 18px;
+    margin-left: 10px;
+}
+
+h1{
+    display: inline-block;
+    font-size: 2.5rem;
+}
+
